@@ -2,6 +2,9 @@
 Mflix
 =====
 
+Part of MongoDB for Javascript Developers course(m220JS) from MongoDB university 
+________________________________________________________________________________
+
 This is a short guide on setting up the system and environment dependencies
 required for the MFlix application to run.
 
