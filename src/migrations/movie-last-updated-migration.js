@@ -17,7 +17,8 @@ const MongoError = require("mongodb").MongoError
 ;(async () => {
   try {
     // ensure you update your host information below!
-    const host = "****"
+    const host =
+      "mongodb+srv://m220student:m220password@mflix-n8pci.mongodb.net/test?retryWrites=true&w=majority"
     const client = await MongoClient.connect(
       host,
       { useNewUrlParser: true },
